@@ -1,2 +1,7 @@
 *.code-workspace
-*.css.map
+
+# Parcel stuff
+
+node_modules/*
+.parcel-cache/*
+dist/*
